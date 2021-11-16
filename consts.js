@@ -1,5 +1,5 @@
-const [W, H] = [1600, 900]
-const Size = 2
+const [W, H] = [1200, 700]
+const Size = 5
 // const AgentNum = 4
 const Ranges = {
   // speed: [2, 4],
