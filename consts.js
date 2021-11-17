@@ -1,17 +1,17 @@
-const [W, H] = [1200, 700]
-const Size = 5
+const [W, H] = [1000, 700]
+const Size = 4
 // const AgentNum = 4
 const Ranges = {
   // speed: [2, 4],
-  speed: [0.5, 2],
-  agility: [0.01, 0.1],
+  speed: [3, 6],
+  agility: [0.08, 0.25],
   stamina: [200, 600],
   recovery: [0.2, 0.4],
   wanderAngOffset: [-0.2, 0.2],
-  percepRad: [30, 50]
+  percepRad: [100, 160]
 }
 const Cooldown = 800
-const WanderCooldown = 2000
+const WanderCooldown = 800
 // const Diags = {
 //   percepRad: true,
 //   cooldown: true,
