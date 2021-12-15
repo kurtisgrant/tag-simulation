@@ -1,5 +1,5 @@
-const [W, H] = [1000, 700]
-const Size = 4
+const [W, H] = [1000, 700];
+const Size = 4;
 // const AgentNum = 4
 const Ranges = {
   // speed: [2, 4],
@@ -9,15 +9,15 @@ const Ranges = {
   recovery: [0.2, 0.4],
   wanderAngOffset: [-0.2, 0.2],
   percepRad: [100, 160]
-}
-const Cooldown = 800
-const WanderCooldown = 800
+};
+const Cooldown = 800;
+const WanderCooldown = 800;
 // const Diags = {
 //   percepRad: true,
 //   cooldown: true,
 //   wander: false
 // }
-const PercepRad = 200
+const PercepRad = 200;
 const Names = [
   "Aaren"
   ,
@@ -2694,6 +2694,8 @@ const Names = [
   "Denni"
   ,
   "Dennie"
+  ,
+  "Dennis"
   ,
   "Denny"
   ,
@@ -9910,4 +9912,4 @@ const Names = [
   "Zulema"
   ,
   "Zuzana"
-]
+];
